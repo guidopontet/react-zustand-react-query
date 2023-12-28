@@ -1,0 +1,69 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Plaza",
+      "description": "Located in the heart of the city, with comfortable rooms and excellent service.",
+      "image": "https://plus.unsplash.com/premium_photo-1697730400019-7a91b5b90c89",
+      "price": 120,
+      "stars": 4,
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Gym"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ocean View Resort",
+      "description": "A beautiful beachfront resort offering stunning ocean views.",
+      "image": "https://plus.unsplash.com/premium_photo-1661904001979-12a252cf15fa",
+      "price": 200,
+      "stars": 5,
+      "amenities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Spa"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "description": "A cozy lodge located in the mountains, perfect for a quiet getaway.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523",
+      "price": 80,
+      "stars": 3,
+      "amenities": [
+        "Free Parking",
+        "Restaurant",
+        "Hiking Trails"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "City Hotel",
+      "description": "A modern hotel located close to major attractions and shopping centers.",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "price": 100,
+      "stars": 4,
+      "amenities": [
+        "Free WiFi",
+        "Restaurant",
+        "Gym"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Country Inn",
+      "description": "A charming inn located in the countryside, with spacious rooms and homemade breakfast.",
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+      "price": 60,
+      "stars": 3,
+      "amenities": [
+        "Free Parking",
+        "Restaurant",
+        "Garden"
+      ]
+    }
+  ]
+}
